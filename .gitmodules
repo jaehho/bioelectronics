@@ -1,0 +1,3 @@
+[submodule "naomi_sim"]
+	path = naomi_sim
+	url = https://bitbucket.org/adamshch/naomi_sim.git
